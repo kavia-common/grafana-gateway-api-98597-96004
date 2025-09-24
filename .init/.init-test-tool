@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/grafana-gateway-api-98597-96004/fastapi_grafana_backend"
+}
